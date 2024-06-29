@@ -1,3 +1,5 @@
+This code is edited by YANG Peida graduated from Aix Marseille University.First year of Master Degree in Xiamen University.
+
 code 1:PaperClassPlot use R to draw image in type svg and png, we use Photoshop transfer png to tiff and use inkscape to tansfer svg to ai.
 code 2:Idem. By using python.
 Attention: Using inkscape should use pdf type export, but we should change the extension from pdf to ai.
